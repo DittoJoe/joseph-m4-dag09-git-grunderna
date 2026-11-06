@@ -84,3 +84,7 @@ I formuläret fyller du i:
 
 - Läs om `git commit --amend` och ändra ett meddelande.
 - Skapa en `.gitignore` med `.DS_Store`.
+
+### Hi there, I'm Joe! 💫
+
+- I'm a Technical Support Engineer who loves gaming, crochet and bubble tea 🧋
